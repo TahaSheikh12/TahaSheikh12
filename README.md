@@ -16,8 +16,6 @@ It combines:
 - Eight analytical skills, including revenue whitespace, cross-sell/up-sell and win/loss analysis
 - File-based context, evidence governance and explicit human approval
 
-The operating model was developed through approximately five months of use. An earlier version was adopted by four colleagues and later migrated across AI platforms when enterprise tooling changed.
-
 [Repository](https://github.com/TahaSheikh12/ai-native-product-marketing-workspace) · [Two-minute tour](https://github.com/TahaSheikh12/ai-native-product-marketing-workspace/blob/main/docs/two-minute-tour.md) · [Architecture](https://github.com/TahaSheikh12/ai-native-product-marketing-workspace/blob/main/docs/architecture.md)
 
 ## Focus areas
@@ -25,13 +23,6 @@ The operating model was developed through approximately five months of use. An e
 - **Product marketing:** positioning, go-to-market strategy, sales enablement and customer growth
 - **Commercial analysis:** revenue mix, market whitespace, expansion and win/loss
 - **AI fluency:** workflow design, reusable context, governance and cross-tool portability
-
-## Working principles
-
-1. Start with the business decision.
-2. Separate evidence, interpretation and external claims.
-3. Reuse context and analytical methods.
-4. Keep human review explicit.
 
 ## Earlier technical learning — 2020
 
