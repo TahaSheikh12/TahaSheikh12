@@ -1,5 +1,3 @@
-![Black profile banner](assets/github-profile-banner.png)
-
 # Taha Sheikh
 
 ### Product marketing | Commercial analysis | AI-enabled operating systems
